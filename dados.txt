@@ -1,12 +1,12 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Gabriel Gonçalves Braga
+-Profissão: Editor de vídeo
+-Cidade: São Paulo
+-O que faz nas horas vaga: Treino inglês ou jogo alguma coisa
+-Feedback sobre o curso Qualidade de Software: Casca grossa
+-Feedback sobre a plataforma de estudo da EBAC: Casca grossa
 
 Obrigado!!!
-
+dnd
 
